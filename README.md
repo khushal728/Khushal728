@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### Hi there, I'm Khushal 👋  
+### I'm Khushal Joshi 👋  
 🔹 **Data Science Enthusiast | AI Developer**  
 🔹 Passionate about building AI-powered applications  
 
