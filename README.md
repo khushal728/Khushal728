@@ -27,9 +27,8 @@ I am a **final-year Data Science student** with a strong passion for building AI
 ---
 
 ### 📊 GitHub Stats  
-![Khushal's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushal728&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khushal728&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khushal728&theme=radical)  
+![Khushal's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushal728&show_icons=true&theme=radical) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khushal728&layout=compact&theme=radical)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khushal728&theme=radical)  
 
 ---
 
