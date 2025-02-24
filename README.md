@@ -4,6 +4,11 @@
 🔹 **Data Science Enthusiast | AI Developer**  
 🔹 Passionate about building AI-powered applications  
 
+--- 
+
+### 📝 About Me  
+I am a **final-year Data Science student** with a strong passion for building AI-powered applications. My expertise lies in **Machine Learning, Data Analysis, and Deep Learning**, and I enjoy working on real-world problems. I have worked on various AI-based projects. My goal is to leverage AI to create impactful and innovative solutions.  
+
 ---
 
 ### 🚀 Tech Stack  
