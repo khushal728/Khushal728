@@ -21,7 +21,7 @@ I am a **final-year Data Science student** with a strong passion for building AI
 
 ### 📌 Featured Projects  
 - **[Your AI](https://github.com/khushal728/AI-Bot)** - A powerful AI BOT.  
-- **[Food Recognition](https://github.com/khushal728/Road-Accident-Analysis)** - The Road Accident Analysis project.  
+- **[Road Accident Analysis](https://github.com/khushal728/Road-Accident-Analysis)** - The Road Accident Analysis project.  
 - **[AI-Trading-Agent.](https://github.com/khushal728/AI-Trading-Agent.)** - Stock trading agent that analyzes stock data and provides recommendations to BUY, SELL, or HOLD using a Deep Q-Network (DQN).  
 - **[PWC-Power-BI-Dashboard](https://github.com/khushal728/PWC-Power-BI-Dashboards-)** - This repository showcases Power BI dashboards   
 ---
