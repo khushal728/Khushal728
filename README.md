@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi There 👋
 
 ## I'm Khushal Joshi 👋  
 🔹 **Data Science Enthusiast | AI Developer**  
