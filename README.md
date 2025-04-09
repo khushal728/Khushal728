@@ -48,7 +48,7 @@ I am a **final-year Data Science student** with a strong passion for building AI
 - **🤖[Your AI](https://github.com/khushal728/AI-Bot)** - A powerful AI BOT.  
 - **🚙[Road Accident Analysis](https://github.com/khushal728/Road-Accident-Analysis)** - The Road Accident Analysis project.  
 - **💹[AI-Trading-Agent.](https://github.com/khushal728/AI-Trading-Agent.)** - Stock trading agent that analyzes stock data and provides recommendations to BUY, SELL, or HOLD using a Deep Q-Network (DQN).  
-- **🌎[Google Trends Dashboard](https://github.com/khushal728/Google_Trends_Dashboard)** - This repository showcases Power BI dashboards   
+- **🌎[Google Trends Dashboard](https://github.com/khushal728/Google_Trends_Dashboard)** -  This Google Trends Analytics Dashboard provides real-time insights.   
 ---
 
 ### 📊 GitHub Stats  
