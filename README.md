@@ -58,7 +58,7 @@
 
 ### 📬 Let’s Connect!
 
-- 📧 Email: khushalofficial728@gmail.com  
+- 📧 Email: khushalJ2003@gmail.com  
 - 💼 [Khushaljoshi](https://www.linkedin.com/in/khushal728)  
 
 ---
