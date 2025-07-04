@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Final-year Data Science Student | Passionate about turning **data into decisions**  
+- 🎓 Recent Data Science Student | Passionate about turning **data into decisions**  
 - 💼 Experienced with **SQL, Python, Power BI, Excel, Streamlit, and AI tools**
 - 📊 Love creating **data dashboards**, working on **ML mini-projects**, and solving **real-world problems**
 - 🧠 Constant learner  always exploring new tools, datasets & ideas to build!
@@ -60,7 +60,6 @@
 
 - 📧 Email: khushalofficial728@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/khushal728)  
-- 🧠 [Portfolio](https://khushal728.github.io) (Add if available)
 
 ---
 
