@@ -1,79 +1,81 @@
-# Hi There 👋
+<h1 align="center">Hi there, I'm Khushal Joshi 👋</h1>
 
-## I'm Khushal Joshi 👋  
-🔹 **Data Science Enthusiast | AI Developer**  
-🔹 Passionate about building AI-powered applications  
+<p align="center">
+  <em>Aspiring Data Analyst | Business Analyst | Problem Solver</em>
+</p>
 
---- 
-
-## 📝 About Me  
-I am a **final-year Data Science student** with a strong passion for building AI-powered applications. My expertise lies in **Machine Learning, Data Analysis, and Deep Learning**, and I enjoy working on real-world problems. I have worked on various AI-based projects. My goal is to leverage AI to create impactful and innovative solutions.  
-
----
-
-## 🔧 Tech Stack:
-
-### **Languages:**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-### **AI & NLP:**
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)    ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)  ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)  
-
----
-### **Data & Machine Learning:**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)   
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=black)  
-
-
---- 
-
-### **Web & Visualization:**
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)  ![Seaborn](https://img.shields.io/badge/Seaborn-008080?style=for-the-badge&logo=python&logoColor=white)  ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white) 
-
----
-### Development Tools:
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" />
+</p>
 
 ---
 
+### 👨‍💻 About Me
 
-
-
-### 📌 Featured Projects  
-- **📊[Zepto_Case_Study_Dashboard](https://github.com/khushal728/Zepto_Case_Study_Dashboard)** A comprehensive business intelligence dashboard built in Power BI for Zepto.  
-- **🚙[Road Accident Analysis](https://github.com/khushal728/Road-Accident-Analysis)** - The Road Accident Analysis project.  
-- **💹[AI-Trading-Agent.](https://github.com/khushal728/AI-Trading-Agent.)** - Stock trading agent that analyzes stock data and provides recommendations to BUY, SELL, or HOLD using a Deep Q-Network (DQN).  
-- **🌎[Google Trends Dashboard](https://github.com/khushal728/Google_Trends_Dashboard)** -  This Google Trends Analytics Dashboard provides real-time insights.   
----
-
-### 📊 GitHub Stats  
-![Khushal's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushal728&show_icons=true&theme=radical) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khushal728&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khushal728&layout=compact&theme=radical) 
+- 🎓 Final-year Data Science Student | Passionate about turning **data into decisions**  
+- 💼 Experienced with **SQL, Python, Power BI, Excel, Streamlit, and AI tools**
+- 📊 Love creating **data dashboards**, working on **ML mini-projects**, and solving **real-world problems**
+- 🧠 Constant learner  always exploring new tools, datasets & ideas to build!
+- 💬 Open to internships, projects, collaborations, or just a chat around tech and data!
 
 ---
 
-### 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushal-joshi728/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khushal728)
+### 🚀 Tech Stack & Tools
 
-## 💡 Always open to collaborating on exciting projects! Let's build something great together. 🚀
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-<!--
-**khushal728/Khushal728** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔍 Areas of Interest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📈 Business Intelligence & Data Visualization  
+- 🤖 AI Tools & Automations  
+- 🧹 Data Cleaning & Analysis  
+- 📦 Operations & Supply Chain Analytics  
+- 📊 Dashboarding & Reporting  
+- 💡 Product & User Analytics  
+- 📚 Learning from Real Datasets (Netflix, Zepto, IPL, Indian Dishes)
+
+---
+
+### 📂 Featured Projects
+
+- 🔸 **RFM Customer Segmentation using SQL**  
+- 🔸 **Zepto Sales Dashboard in Power BI**  
+- 🔸 **Instagram Comment Sentiment Analyzer (IndicBERT)**  
+- 🔸 **SelfCare AI Health App using Python & Streamlit**  
+- 🔸 **AI Assistant & Agents for Deep Research using LangChain**  
+
+👉 Explore all at: [github.com/khushal728?tab=repositories](https://github.com/khushal728?tab=repositories)
+
+---
+
+### 📬 Let’s Connect!
+
+- 📧 Email: khushalofficial728@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/khushal728)  
+- 🧠 [Portfolio](https://khushal728.github.io) (Add if available)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khushal728&show_icons=true&theme=github_dark" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushal728&theme=dark" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushal728&layout=compact&theme=github_dark" width="49%" />
+</p>
+
+---
+
+> 🔁 “I find joy in turning raw data into real insights.”  
+> 🌱 *Let’s build, learn, and grow together.*
