@@ -46,11 +46,11 @@
 
 ### 📂 Featured Projects
 
-- 🔸 **RFM Customer Segmentation using SQL**  
+- 🔸 **Google Trends Dashboard**  
 - 🔸 **Zepto Sales Dashboard in Power BI**  
-- 🔸 **Instagram Comment Sentiment Analyzer (IndicBERT)**  
-- 🔸 **SelfCare AI Health App using Python & Streamlit**  
-- 🔸 **AI Assistant & Agents for Deep Research using LangChain**  
+- 🔸 **Netflix SQL Project**  
+- 🔸 **Retail-Supply-Chain-Analysis-and-DashBoard**  
+- 🔸 **Stock Market Crash Analysis**  
 
 👉 Explore all at: [github.com/khushal728?tab=repositories](https://github.com/khushal728?tab=repositories)
 
@@ -59,7 +59,7 @@
 ### 📬 Let’s Connect!
 
 - 📧 Email: khushalofficial728@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/khushal728)  
+- 💼 [Khushaljoshi](https://www.linkedin.com/in/khushal728)  
 
 ---
 
