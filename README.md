@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Khushal Joshi 👋</h1>
+<h1 align="center">Hi there, I'm Khushal Joshi </h1>
 
 <p align="center">
   <em>Aspiring Data Analyst | Business Analyst | Problem Solver</em>
