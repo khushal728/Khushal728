@@ -8,6 +8,7 @@ Hii ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 </p>
 
 -------------------------------
+### About Me
 
 🎓 Recent Data Science Student | Passionate about turning data into decisions.
 
