@@ -36,6 +36,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://lookerstudio.google.com/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/color/48/000000/google-data-studio.png" alt="Looker Studio" title="Looker Studio" width="36" height="36"/>
 </a>
+<a href="https://skillicons.dev/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" alt="Looker Studio" title="Pycharm" width="36" height="36"/>
+</a>
 
 ### Socials
 
