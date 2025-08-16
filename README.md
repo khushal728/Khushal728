@@ -18,6 +18,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 🧠 Constant learner always exploring new tools, datasets & ideas to build!.
 
 💬 Open to internships, projects, collaborations, or just a chat around tech and data!
+
 ------------------------------
 * 🌍  I'm based in Aurangabad, Maharashtra
 * 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/khushal-joshi728)
