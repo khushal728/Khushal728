@@ -15,7 +15,7 @@ Hii ! My name is Khushal Joshi
 -------------------------------
 ### About Me
 
-🎓 Recent Data Science Student | Passionate about turning data into decisions.
+🎓 Recent Data Science Graduate | Passionate about turning data into decisions.
 
 💼 Experienced with SQL, Python, Power BI, Excel, Streamlit, and AI tools
 
