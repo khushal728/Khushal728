@@ -1,10 +1,15 @@
 Hii ! My name is Khushal Joshi
 ======================================================================================================================================
 
-<h3 align="center"> Business Analyst, Data Analyst, Data Science
-</h3>
+<h3 align="center">Business Analyst | Data Science | Data Analyst </h3>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250" />
+  
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="250" />
+
 </p>
 
 -------------------------------
