@@ -61,11 +61,9 @@ Hii ! My name is Khushal Joshi
 
 <a href="http://www.github.com/khushal728"><img src="https://github-readme-streak-stats.herokuapp.com/?user=khushal728&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=khushal728&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 ----------------------------------
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/khushal728/Zepto_Case_Study_Dashboard" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=khushal728&repo=Zepto_Case_Study_Dashboard&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/khushal728/Netflix_sql_project" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=khushal728&repo=Netflix_sql_project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-<br /><br /><br/>
-<br /><br /><br/>
-<div width="100%" align="center"><a href="https://github.com/khushal728/Retail-Supply-Chain-Analysis-and-DashBoard" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=khushal728&repo=Retail-Supply-Chain-Analysis-and-DashBoard&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/khushal728/Stock-Market-Crash-Analysis" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=khushal728&repo=Stock-Market-Crash-Analysis&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
