@@ -31,7 +31,13 @@ Hii ! My name is Khushal Joshi
 -------------------------
 ### Tech Stack 
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" width="36" height="36"/></a> <a href="https://www.microsoft.com/en-us/microsoft-365/sql" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="SQL" title="SQL" width="36" height="36"/></a> <a href="https://www.microsoft.com/en-us/microsoft-365/power-bi" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" title="Power BI" width="36" height="36"/></a> <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" title="Excel" width="36" height="36"/></a> <a href="https://lookerstudio.google.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/google-data-studio.png" alt="Looker Studio" title="Looker Studio" width="36" height="36"/></a> <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" alt="PyCharm" title="PyCharm" width="36" height="36"/></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" width="36" height="36"/></a>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" title="Power BI" width="36" height="36"/></a><a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" title="Excel" width="36" height="36"/>
+</a><a href="https://lookerstudio.google.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/google-data-studio.png" alt="Looker Studio" title="Looker Studio" width="36" height="36"/></a>
+<a href="https://skillicons.dev/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" alt="Looker Studio" title="Pycharm" width="36" height="36"/></a>
 </p> 
 
 -------------------------------
